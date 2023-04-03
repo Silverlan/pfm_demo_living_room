@@ -1,0 +1,16 @@
+"pbr"
+{
+	"properties"
+	{
+		$int32 alpha_mode 0
+		$float alpha_cutoff 0.5
+		$float roughness_factor 1
+		$vec3 color_factor [0,0,0]
+		$float metalness_factor 1
+		$vec3 emission_factor [1,1,1]
+	}
+	"textures"
+	{
+		$string albedo_map "white"
+	}
+}

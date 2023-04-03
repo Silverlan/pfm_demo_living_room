@@ -1,0 +1,13 @@
+"ibl"
+{
+	"textures"
+	{
+		$string prefilter "projects/0215cb2a-73a1-4523-9d70-0234452645ec/4546498085603203168_prefilter"
+		$string irradiance "projects/0215cb2a-73a1-4523-9d70-0234452645ec/4546498085603203168_irradiance"
+		$string brdf "env/brdf"
+	}
+	"properties"
+	{
+		$bool generated 1
+	}
+}

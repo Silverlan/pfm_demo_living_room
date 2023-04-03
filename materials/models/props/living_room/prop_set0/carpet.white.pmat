@@ -1,0 +1,21 @@
+"pbr"
+{
+	"textures"
+	{
+		$string normal_map "models/props/living_room/prop_set0/carpet.white_normal"
+		$string albedo_map "models/props/living_room/prop_set0/carpet.white_albedo"
+		$string rma_map "models/props/living_room/prop_set0/carpet.white_rma"
+	}
+	"properties"
+	{
+		$int32 alpha_mode 0
+		$float roughness_factor 1
+		$float alpha_cutoff 0.5
+		"rma_info"
+		{
+			$bool requires_ao_update 1
+		}
+		$float metalness_factor 0
+		$vec3 emission_factor [0,0,0]
+	}
+}

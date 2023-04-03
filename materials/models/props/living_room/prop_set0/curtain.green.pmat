@@ -1,0 +1,22 @@
+"pbr"
+{
+	"properties"
+	{
+		$int32 alpha_mode 0
+		$float roughness_factor 1
+		$float alpha_cutoff 0.5
+		$vec3 color_factor [0.0206,0.0272,0.0091]
+		"rma_info"
+		{
+			$bool requires_ao_update 1
+		}
+		$float metalness_factor 0
+		$vec3 emission_factor [0,0,0]
+	}
+	"textures"
+	{
+		$string albedo_map "white"
+		$string rma_map "models/props/living_room/prop_set0/curtain.green_rma"
+		$string normal_map "models/props/living_room/prop_set0/curtain.green_normal"
+	}
+}
