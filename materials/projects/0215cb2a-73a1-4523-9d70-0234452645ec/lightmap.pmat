@@ -2,8 +2,8 @@
 {
 	"textures"
 	{
-		$string diffuse_direct_map "projects/0215cb2a-73a1-4523-9d70-0234452645ec/lightmap_diffuse_direct"
 		$string dominant_direction_map "projects/0215cb2a-73a1-4523-9d70-0234452645ec/lightmap_normal"
+		$string diffuse_direct_map "projects/0215cb2a-73a1-4523-9d70-0234452645ec/lightmap_diffuse_direct"
 		$string diffuse_indirect_map "projects/0215cb2a-73a1-4523-9d70-0234452645ec/lightmap_diffuse_indirect"
 	}
 }
