@@ -1588,13 +1588,15 @@ $string assetType "PMAP"
 			$stransform pose [[-35,66,193][0.7071,0.7071,0,0][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "47.933898925781"
+				$string light_intensity "47.933898925781"
 				$string light_intensity_type "0"
 				$string blendFraction "0.10000000149012"
 				$string uuid "4f5b7326-0714-49b6-843b-90eca6c681df"
 				$string radius "1000"
 				$string outerCutoff "38.412498474121"
 				$string color "1 1 1"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1607,13 +1609,15 @@ $string assetType "PMAP"
 			$stransform pose [[-55,66,193][0.7071,0.7071,0,0][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "47.933898925781"
+				$string light_intensity "47.933898925781"
 				$string light_intensity_type "0"
 				$string blendFraction "0.10000000149012"
 				$string uuid "c22de0d9-0e36-4920-8242-9ddd28a4a9e7"
 				$string radius "1000"
 				$string outerCutoff "38.412498474121"
 				$string color "1 1 1"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1626,13 +1630,15 @@ $string assetType "PMAP"
 			$stransform pose [[-15,66,193][0.7071,0.7071,0,0][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "47.933898925781"
+				$string light_intensity "47.933898925781"
 				$string light_intensity_type "0"
 				$string blendFraction "0.10000000149012"
 				$string uuid "a06e049f-88e4-40a4-8910-15581caaf88e"
 				$string radius "1000"
 				$string outerCutoff "38.412498474121"
 				$string color "1 1 1"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1645,11 +1651,13 @@ $string assetType "PMAP"
 			$stransform pose [[36,56,-240][0.2202,0,0.9755,0][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "20.242900848389"
+				$string light_intensity "20.242900848389"
 				$string light_intensity_type "0"
 				$string uuid "b52a08bf-4111-43bf-8f24-0472b4911bc6"
 				$string radius "1000"
 				$string color "1 1 1"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1662,11 +1670,13 @@ $string assetType "PMAP"
 			$stransform pose [[54,33,73][0.9257,0,-0.3783,0][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "3.658499956131"
+				$string light_intensity "3.658499956131"
 				$string light_intensity_type "0"
 				$string uuid "51a9947a-99ec-400f-9fc1-f9dae64438f8"
 				$string radius "1000"
 				$string color "1 0.5216 0.2039"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1679,13 +1689,15 @@ $string assetType "PMAP"
 			$stransform pose [[67,44,74][0.6964,0.6964,-0.1228,-0.1228][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "121.73909759521"
+				$string light_intensity "121.73909759521"
 				$string light_intensity_type "0"
 				$string blendFraction "0.10000000149012"
 				$string uuid "2cdb82da-43f7-4f10-9601-ef2cec31f616"
 				$string radius "1000"
 				$string outerCutoff "60"
 				$string color "1 0.8275 0.5294"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1698,11 +1710,13 @@ $string assetType "PMAP"
 			$stransform pose [[-36,51,193][1,0,0.0024,0][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "43.478298187256"
+				$string light_intensity "43.478298187256"
 				$string light_intensity_type "0"
 				$string uuid "e6869877-f315-491d-ba26-859b9fcf79ff"
 				$string radius "1000"
 				$string color "1 1 1"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1715,11 +1729,13 @@ $string assetType "PMAP"
 			$stransform pose [[-95,73.6342,-16][0.4429,0,0.8966,0][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "18.888900756836"
+				$string light_intensity "18.888900756836"
 				$string light_intensity_type "0"
 				$string uuid "e087500a-9eaf-4090-86be-6a2af144b8a7"
 				$string radius "1000"
 				$string color "1 1 1"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1732,10 +1748,12 @@ $string assetType "PMAP"
 			$stransform pose [[223.1949,181.6,6.7015][0.8214,0.383,-0.383,0.1786][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "29.60890007019"
+				$string light_intensity "29.60890007019"
 				$string light_intensity_type "2"
 				$string uuid "52a54b56-43ff-4c52-93c3-51edea5b82cb"
 				$string color "1 0.6863 0.4549"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1748,11 +1766,13 @@ $string assetType "PMAP"
 			$stransform pose [[-232,45,-260][-0.155,0,0.9879,0][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "16.393400192261"
+				$string light_intensity "16.393400192261"
 				$string light_intensity_type "0"
 				$string uuid "8a677b5a-8389-419b-898c-5413b445d634"
 				$string radius "1000"
 				$string color "1 1 1"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
@@ -1765,11 +1785,13 @@ $string assetType "PMAP"
 			$stransform pose [[-131.0418,70.0498,-158.63][0.0572,0,0.9984,0][1,1,1]]
 			"keyValues"
 			{
-				$string intensity "50.279300689697"
+				$string light_intensity "50.279300689697"
 				$string light_intensity_type "0"
 				$string uuid "8bef27a5-5e21-4eba-bd70-13030f95a9d2"
 				$string radius "1000"
 				$string color "1 1 1"
+				$string light_flags "1"
+				$string spawnflags "1024"
 			}
 			$array outputs [element;0][]
 		},
